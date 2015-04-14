@@ -1,4 +1,4 @@
-**This project is no longer under development, if you'd like to fork and continue the project please do! Let me know your fork and I'll link to it.**
+**This repo has been forked from overshard/docker-mumble for personal modifications.**
 
 # docker-mumble
 
