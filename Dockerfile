@@ -5,7 +5,8 @@
 # (http://mumble.sourceforge.net/).
 #
 # Authors: Isaac Bythewood
-# Updated: Oct 20th, 2014
+# Modifications: Mika Tammi
+# Updated: Apr 14th, 2015
 # Require: Docker (http://www.docker.io/)
 # -----------------------------------------------------------------------------
 
